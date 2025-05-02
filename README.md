@@ -5,6 +5,7 @@ The dataset used contains sensor data from HVAC pumps, including readings from v
 
 
 **Dataset used**
+
 Here I used the Puump Sensor Dataset :([https://www.kaggle.com/datasets/nphantawee/pump-sensor-data])
 
 
@@ -20,6 +21,7 @@ Anomaly Detection: Z-scores were calculated to identify outliers (values that ex
 
 
 **Model Development and Training**
+
 We trained five machine learning models to predict the machine_status (whether the machine is running normally or needs maintenance):
 Logistic Regression
 Random Forest Classifier
